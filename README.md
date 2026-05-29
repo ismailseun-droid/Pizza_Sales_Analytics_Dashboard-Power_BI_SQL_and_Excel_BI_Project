@@ -11,8 +11,8 @@ The project demonstrates the complete analytics workflow from data extraction an
 ---
 (3) 🛠️ **Tech Stack**
 The project was built using the following tools and technologies:
-🗄️ SQL
--Data exploration -KPI calculations -Trend analysis -Product performance analysis -Business insight generation
+🗄️ SQL:
+Data exploration, KPI calculations, Trend analysis, Product performance analysis, Business insight generation
 📊 Power BI
 -Interactive dashboard development -Data modeling -DAX measures -KPI reporting -Business visualization
 📈 Microsoft Excel
