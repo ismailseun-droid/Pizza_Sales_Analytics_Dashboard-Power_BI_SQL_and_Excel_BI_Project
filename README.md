@@ -81,6 +81,7 @@ The SQL analysis formed the foundation for the Power BI and Excel dashboard visu
 📏 Size Insights - Large pizzas generated approximately 46% of total revenue, and Medium pizzas accounted for approximately 30%
 
 💡 **Business Recommendations**
+
 1️⃣ Optimize Peak-Day Operation: Increase staffing and inventory levels on Fridays and Saturdays to meet elevated demand.
 
 2️⃣ Promote High-Performing Products: Feature top-selling pizzas in marketing campaigns and promotional bundles.
