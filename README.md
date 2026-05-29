@@ -3,10 +3,12 @@
 (1) 📌 **Pizza Sales Analytics Dashboard: End-to-End Business Intelligence Project**
 An end-to-end analytics project that leverages SQL, Excel, and Power BI to transform raw pizza sales transactions into actionable business insights through KPI reporting, trend analysis, product performance evaluation, and interactive dashboarding.
 
+---
 (2) 🎯 **Project Purpose**
 The objective of this project was to analyze pizza sales performance and develop interactive dashboards that enable stakeholders to monitor revenue, customer ordering behavior, product performance, and sales trends.
 The project demonstrates the complete analytics workflow from data extraction and SQL analysis to dashboard development and business recommendations.
 
+---
 (3) 🛠️ **Tech Stack**
 The project was built using the following tools and technologies:
 🗄️ SQL
@@ -20,6 +22,7 @@ The project was built using the following tools and technologies:
 🧮 DAX
 -Calculated measures -KPI calculations -Dynamic dashboard metrics
 
+---
 (4) 📂 **Data Source**
 Source Dataset
 Dataset obtained from: https://drive.google.com/drive/folders/17U0ah6Q4MJM_wIn_Xl4fHc-1fO6Q4s6z
@@ -32,6 +35,7 @@ Dataset Summary: 48,620 transaction records, 21,350 customer orders, Multiple pi
 🚀 **Project Workflow**
 Raw Sales Data ⬇️ SQL Data Analysis ⬇️ Data Cleaning & Transformation ⬇️ Excel Dashboard Development ⬇️ Power BI Dashboard Development
 
+---
 (5) 📊 **Dashboard Features & Highlights**
 💰 Executive KPI Dashboard
 Tracks key business metrics including: Total Revenue, Average Order Value, Total Orders, Total Pizzas Sold, Average Pizzas per Order
@@ -65,8 +69,10 @@ The SQL analysis formed the foundation for the Power BI and Excel dashboard visu
 3️⃣ Improve Low-Performing Products: Review pricing, ingredients, and marketing strategies for underperforming menu items.
 5️⃣ Seasonal Marketing Initiatives: Develop promotional campaigns during lower-performing months to smooth demand throughout the year.
 
+---
 (6) 📈 **Dashboard Preview**
 📊 Power BI Dashboard: https://github.com/ismailseun-droid/Pizza_Sales_Analytics_Dashboard-Power_BI_SQL_and_Excel_BI_Project/blob/main/Pizza%20Sales%20-%20Power%20BI%20Dashboard%20Screenshot.jpg
+
 📉 Excel Dashboard: https://github.com/ismailseun-droid/Pizza_Sales_Analytics_Dashboard-Power_BI_SQL_and_Excel_BI_Project/blob/main/Pizza%20Sales%20-%20Excel%20BI%20Dashboard%20Screenshot.jpg
 
 
